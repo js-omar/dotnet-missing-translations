@@ -2,21 +2,10 @@
 
 Dotnet Missing Translations Project
 
-## Installation
-
-Use the package manager [npm](https://www.npmjs.com/) to install @js-omar/dotnet-missing-translations.
-
-```bash
-npm install @js-omar/dotnet-missing-translations
-```
-
 ## Usage
 
-```typescript
-import { DotnetMissingTranslations } from '@js-omar/dotnet-missing-translations';
-
-// Default Option
-DotnetMissingTranslations();
+```bash
+npx @js-omar/dotnet-missing-translations
 ```
 
 ## Development
