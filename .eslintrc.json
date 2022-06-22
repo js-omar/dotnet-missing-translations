@@ -1,0 +1,6 @@
+{
+  "extends": ["@js-omar/eslint-config"],
+  "rules": {},
+  "root": true,
+  "ignorePatterns": ["node_modules", "bin"]
+}
