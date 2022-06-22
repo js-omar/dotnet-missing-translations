@@ -3,15 +3,16 @@
   "version": "0.2",
   "words": [
     "commitlint",
+    "dotnet",
     "Elsayed",
+    "missing",
     "parens",
     "postversion",
     "prebuild",
     "preversion",
     "tailwindcss",
-    "dotnet",
-    "missing",
-    "translations"
+    "translations",
+    "translatte"
   ],
   "language": "en",
   "ignoreRegExpList": ["/[ء-ي]+/"],

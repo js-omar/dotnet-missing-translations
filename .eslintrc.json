@@ -1,6 +1,10 @@
 {
   "extends": ["@js-omar/eslint-config"],
-  "rules": {},
   "root": true,
+  "rules": {
+    "no-console": "off",
+    "@typescript-eslint/no-explicit-any": "off",
+    "no-param-reassign": "off"
+  },
   "ignorePatterns": ["node_modules", "bin"]
 }
